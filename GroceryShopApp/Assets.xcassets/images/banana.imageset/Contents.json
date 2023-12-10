@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "close-up-of-bananas-697609281-5ade1aaa642dca003773c2da.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

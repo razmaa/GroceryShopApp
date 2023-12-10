@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Acerola-GettyImages-660564111-5a1afb810c1a820019991f62.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Breadfruit-GettyImages-148563250-5a1afede482c5200377801c8.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

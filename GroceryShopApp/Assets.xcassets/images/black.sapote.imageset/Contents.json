@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "black-sapote-or-chocolate-pudding-fruit-495774214-5ade1b333de423003600f0e0.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

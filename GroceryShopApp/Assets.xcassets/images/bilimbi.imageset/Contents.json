@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Bilimbi-GettyImages-531235507-5a1afd720d327a00370b9c81.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
